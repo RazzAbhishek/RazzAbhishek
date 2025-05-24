@@ -6,11 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razzabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="razzabhishek" /> </p>
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/abhishek-raj-0b4b6a226](linkedin.com/in/abhishek-raj-0b4b6a226)
+- 👨‍💻 All of my projects are available at [https://github.com/RazzAbhishek?tab=repositories](https://github.com/RazzAbhishek?tab=repositories)
 
 - 📫 How to reach me **razz.abhishek1632@gmail.com**
 
-- ⚡ fun fact **I think I m funny😅😅**
+- ⚡ Languages: Python, c, javascript
+Frameworks: Django, DRF, REST framework
+Databases: PostgreSQL, MySQL, SQLite  
+Frontend: HTML, CSS, Bootstrap (for admin work)  
+Tools: Git, GitHub, Postman, VS Code  
+Deployment: Render, Heroku, PythonAnywhere, AWS  
+Authentication: JWT, Token, OAuth  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
