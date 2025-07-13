@@ -10,13 +10,12 @@
 
 - 📫 How to reach me **razz.abhishek1632@gmail.com**
 
-- ⚡ Languages: Python, c, javascript
-Frameworks: Django, DRF, REST framework
-Databases: PostgreSQL, MySQL, SQLite  
-Frontend: HTML, CSS, Bootstrap (for admin work)  
-Tools: Git, GitHub, Postman, VS Code  
-Deployment: Render, Heroku, PythonAnywhere, AWS  
-Authentication: JWT, Token, OAuth  
+🚀 Python | Django | Django REST Framework | FastAPI
+🛠️ PostgreSQL | MySQL | SQLite | Redis | ORM | DRF | REST & JWT APIs
+💻 MERN Stack | React.js | Node.js | Express.js | MongoDB
+🛒 E-Commerce | Admin Dashboard | PayPal Integration | Product Filters | Cart System
+☁️ AWS | Render | Vercel | Scalable Backend Systems | API Integration | CI/CD
+🧪 Postman | Git | GitHub | Version Control | Deployment | Vite | Bootstrap | Tailwind CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
